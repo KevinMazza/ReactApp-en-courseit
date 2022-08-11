@@ -1,0 +1,9 @@
+import React from 'react';
+
+function Team(){
+    return (
+        <p>Soy la pagina de equipo</p>
+    )
+}
+
+export default Team;
